@@ -1,4 +1,4 @@
-JBoss EAP Counter: A simple web app demonstrating a session replication feature in JBoss EAP cluster
+JBoss EAP Counter
 ========================
 Author: An Nguyen  
 Level: Intermediate  
