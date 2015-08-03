@@ -91,6 +91,15 @@
 		</dependencies>
 	</dependencyManagement>
 
+	<dependencies>
+		<dependency>
+			<groupId>org.jboss.spec.javax.servlet</groupId>
+			<artifactId>jboss-servlet-api_3.0_spec</artifactId>
+			<version>1.0.2.Final-redhat-2</version>
+			<scope>provided</scope>
+		</dependency>
+	</dependencies>
+
 	<build>
 		<!-- Maven will append the version to the finalName (which is the name 
 			given to the generated war, and hence the context root) -->
