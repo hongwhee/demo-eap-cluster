@@ -14,7 +14,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cluster Test</title>
+<title>Cluster EAP Test</title>
 </head>
 <body>
 	<h1>EAP6 Cluster Testing</h1>
