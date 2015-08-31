@@ -17,7 +17,7 @@
 <title>Cluster EAP Test</title>
 </head>
 <body>
-	<h1>EAP6 Cluster Testing</h1>
+	<h1>EAP6 Rollup Upgrade Testing</h1>
 	<p>You have visited this application <%= counter %> times.</p>
 	<br/>
 	<p>This page is being served from <b><%= request.getServerName() %>:<%= request.getServerPort() %></b></p>
